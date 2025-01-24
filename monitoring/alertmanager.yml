@@ -1,0 +1,15 @@
+global:
+  smtp_smarthost: 'smtp.mailserver.com:587'  # SMTP сервер
+  smtp_from: 'vasukot@mail.ru'  # Ваш email
+  smtp_auth_username: 'vasukot@mail.ru'  # Логин для SMTP
+  smtp_auth_password: 'Dfcz37Xthyjd10'  # Пароль для SMTP
+  smtp_require_tls: true
+
+route:
+  receiver: 'email-alert'
+
+receivers:
+  - name: 'email-alert'
+    email_configs:
+      - to: 'vasukot@mail.ru'  # Адрес получателя
+        send_resolved: true

@@ -1,0 +1,9 @@
+2024-12-27 17:42:08,460 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:42:10,507 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:42:12,699 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:42:23,455 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:42:38,455 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:42:53,455 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:43:08,454 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:43:23,453 - INFO - Metric: http_requests_total | Value: 1 | Service: web_app Labels: {'method': 'GET', 'endpoint': '/metrics'}
+2024-12-27 17:43:30,596 - INFO - C:\Users\VAChernov\PycharmProjects\Prometheus_Project\metrics\prometheus_metrics\metrics_logger.py changed, reloading.
